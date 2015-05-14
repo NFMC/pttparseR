@@ -3,6 +3,8 @@ pttparseR
 
 A simple R and SHINY package based interface to parse ptt file and visualize bacterial genome
 
+Created at: NFMC, Bharathidasan university, Trichirapalli.
+
 
 ## Requirement:
 
@@ -12,8 +14,8 @@ library(shiny)
 
 
 ### Run a tar or zip file directly
-runUrl("https://github.com/karthicklaksman/pttparseR/archive/master.tar.gz")
-runUrl("https://github.com/karthicklaksman/pttparseR/archive/master.zip")
+runUrl("https://github.com/NFMC/pttparseR/archive/master.tar.gz")
+runUrl("https://github.com/NFMC/pttparseR/archive/master.zip")
 
 Or you can clone the git repository, then use runApp():
 
